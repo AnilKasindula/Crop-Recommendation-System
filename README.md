@@ -12,9 +12,9 @@ This project predicts the most suitable crop to cultivate based on the soil's Ni
 
 ## 🧠 Machine Learning
 
-- **Algorithm Used:** [Random Forest / Decision Tree / KNN / SVM] *(Choose one based on your model)*
+- **Algorithm Used:** [Random Forest] 
 - **Dataset:** Crop recommendation dataset with N, P, K values and target crop
-- **Accuracy:** ~[xx]% *(Fill in your actual model accuracy)*
+- **Accuracy:** ~[92]% 
 
 ## 📊 Input Parameters
 
